@@ -1,0 +1,6 @@
+c:\users\anton.klang\documents\visual studio 2015\Projects\Hello World GitHub\Hello World GitHub\bin\Debug\Hello World GitHub.exe.config
+c:\users\anton.klang\documents\visual studio 2015\Projects\Hello World GitHub\Hello World GitHub\bin\Debug\Hello World GitHub.exe
+c:\users\anton.klang\documents\visual studio 2015\Projects\Hello World GitHub\Hello World GitHub\bin\Debug\Hello World GitHub.pdb
+c:\users\anton.klang\documents\visual studio 2015\Projects\Hello World GitHub\Hello World GitHub\obj\Debug\Hello World GitHub.csprojResolveAssemblyReference.cache
+c:\users\anton.klang\documents\visual studio 2015\Projects\Hello World GitHub\Hello World GitHub\obj\Debug\Hello World GitHub.exe
+c:\users\anton.klang\documents\visual studio 2015\Projects\Hello World GitHub\Hello World GitHub\obj\Debug\Hello World GitHub.pdb
